@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Tree App",
+    "image": "https://i.ibb.co/SXwvW7gW/Tree.png",
+    "live": "https://teal-yeot-fd4c73.netlify.app/",
+    "github": "https://github.com/Abdul-Aziz-wasi/Tree-project",
+    "slug": "tree-app",
+    "tech": "React, Tailwind CSS, Firebase, Express js, Mongodb",
+    "description": "An eco-friendly platform that helps users track tree plantation and environmental activities.",
+    "challenges": "Handling Firebase authentication and dynamic form submissions.",
+    "future": "Add leaderboard for top contributors and map integration."
+  },
+  {
+    "id": 2,
+    "title": "Virtual BookShelf",
+    "image": "https://i.ibb.co/JwXh9r1F/book.png",
+    "live": "https://guileless-gumdrop-8ead0b.netlify.app/",
+    "github": "https://github.com/Abdul-Aziz-wasi/Book-Shelf",
+    "slug": "bookshelf-app",
+    "tech": "React, Tailwind CSS, Firebase, Express js, Mongodb",
+    "description": "A personal digital bookshelf app to manage and review books.",
+    "challenges": "Implementing user reviews and handling MongoDB relations.",
+    "future": "Add book recommendations and search by author feature."
+  },
+  {
+  "id": 3,
+  "title": "Job Tracker",
+  "image": "https://i.ibb.co/KcHY4MDM/Screenshot.png",
+  "live": "https://zesty-salamander-22fe8f.netlify.app/",
+  "github": "https://github.com/Abdul-Aziz-wasi/Job-Track",
+  "slug": "job-tracker",
+  "tech": "React, Tailwind CSS, Firebase, Express js, Mongodb",
+  "description": "Job Tracker is a productivity tool that allows users to manage and track their job applications in one place. Users can add, update, and delete jobs with different statuses like 'Pending', 'Interview', or 'Declined'. It helps job seekers stay organized and never miss an opportunity.",
+  "challenges": "Managing complex state with Redux and integrating Firebase for authentication and real-time data updates was a challenge, especially with ensuring responsive UI on all devices.",
+  "future": "Future plans include adding notification support, PDF export functionality, and integration with external job APIs to fetch new job listings."
+}
+]
