@@ -29,7 +29,7 @@ const HeroSection = () => {
           {/* Social Icons */}
           <div className="flex justify-center md:justify-start gap-6 mt-6 text-2xl">
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/Abdul-Aziz-wasi"
               target="_blank"
               rel="noopener noreferrer"
               className="text-teal-400 transition"
@@ -37,7 +37,7 @@ const HeroSection = () => {
               <FaGithub />
             </a>
             <a
-              href="https://www.linkedin.com/in/your-linkedin"
+              href="https://www.linkedin.com/in/abdul-aziz-730b97372"
               target="_blank"
               rel="noopener noreferrer"
               className="text-teal-400 transition"
@@ -45,7 +45,7 @@ const HeroSection = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://facebook.com/your-facebook"
+              href="https://www.facebook.com/ma.aziz.79025"
               target="_blank"
               rel="noopener noreferrer"
               className="text-teal-400 transition"
