@@ -47,7 +47,7 @@ const Navbar = () => {
         
         {/* Logo on the left */}
         <div className="flex-shrink-0">
-          <h3 className="text-xl font-bold text-teal-400 tracking-wide">Portfolio</h3>
+          <h3 className="text-xl font-bold text-teal-400 tracking-wide">Abdul Aziz</h3>
         </div>
 
         {/* NavLinks - centered on desktop */}

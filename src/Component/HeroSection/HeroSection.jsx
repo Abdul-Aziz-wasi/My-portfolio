@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
-import resume from '../../assets/Abdul Aziz-1.pdf';
+import resume from "../../assets/Aziz's resume.pdf";
 import image from '../../assets/IMG_20210729_212445.jpg';
 
 const HeroSection = () => {
