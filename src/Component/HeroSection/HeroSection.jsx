@@ -1,7 +1,8 @@
 import React from 'react';
 import { FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
 import resume from "../../assets/Aziz's resume.pdf";
-import image from '../../assets/IMG_20210729_212445.jpg';
+import image from '../../assets/aziz_img.JPG';
+import { motion } from 'framer-motion';
 
 const HeroSection = () => {
   return (
@@ -10,9 +11,12 @@ const HeroSection = () => {
         
         {/* Left content */}
         <div className="md:w-1/2 text-center md:text-left">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4 leading-tight">
+          <motion.h1
+  initial={{ opacity: 0, y: 40 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.8 }} className="text-4xl md:text-5xl font-bold mb-4 leading-tight">
             Hi, <br /> I'm <span className="text-teal-400">Abdul Aziz</span>
-          </h1>
+          </motion.h1>
           <p className="text-lg text-gray-300 mb-6">
             I'm a passionate <span className="text-teal-400 font-medium">Frontend Web Developer</span>  skilled in JavaScript, React, Node.js, and MongoDB. I create clean, efficient, and user-friendly web applications.
           </p>
